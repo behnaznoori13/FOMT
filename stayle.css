@@ -1,0 +1,26 @@
+body{
+    color: rgb(120, 95, 160);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+color: #66BFBF;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   line-height: 5;
+}
+h2{
+    color: #11999e;
+    font-size: 5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+}
+h3{
+    color: #66BFBF;
+    padding-bottom: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:hover{
+    color: #11999e;
+
+}
+
